@@ -20,4 +20,4 @@ streamlit run app.py
 
 # Output
 ![Output](output1.jpeg)
-![Output](output2.jpeg)
+
